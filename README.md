@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @crosby-git
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 This account created 09/30/23
+- 🌱 Looking for potential for secure storage of text/passwords/account info
+- 
+- 💞️
+- 📫 
 
 <!---
 Created account Saturday, September 30, 2023
