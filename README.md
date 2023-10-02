@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crosby-git
 - 👀 This account created 09/30/23
-- 🌱 Looking for potential for secure storage of text/passwords/account info
+- 🌱 
 - 
 - 💞️
 - 📫 
